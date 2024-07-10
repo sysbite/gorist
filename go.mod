@@ -1,3 +1,3 @@
-module github.com/CoverWhale/gorist
+module github.com/sysbite/gorist
 
 go 1.19
